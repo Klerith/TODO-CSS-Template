@@ -13,6 +13,13 @@
 
 - Clone this repo and install the dependencies with [npm](https://npmjs.com) by running: `npm install`.
 
+## Importante:
+
+El CSS original se encuentra aquí
+
+```
+npm install todomvc-app-css
+```
 
 ## License
 
