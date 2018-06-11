@@ -18,7 +18,7 @@
 El CSS original se encuentra aquí
 
 ```
-npm install todomvc-app-css
+npm install todomvc-app-css --save
 ```
 
 ## License
